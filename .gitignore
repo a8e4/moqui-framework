@@ -4,6 +4,7 @@ myaddons.xml
 # gradle/build files
 build
 .gradle
+/log
 /framework/dependencies
 
 # build generated files
